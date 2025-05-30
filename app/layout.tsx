@@ -8,8 +8,8 @@ const bricolage = Bricolage_Grotesque({
 });
 
 export const metadata: Metadata = {
-  title: "Converso",
-  description: "Real-time AI Teaching Platform",
+  title: "A.lomda-Hub",
+  description: "Your Fitness Space",
 };
 
 export default function RootLayout({
